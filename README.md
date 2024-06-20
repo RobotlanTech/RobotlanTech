@@ -28,11 +28,11 @@
 class RobotlanTech():
     
   def __init__(self):
-    self.name = "Angel Ramirez";
+    self.name =     "Angel Ramirez";
     self.username = "RobotlanTech";
     self.location = "Mexico";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.twitter =  "@abhigyantrips";
+    self.web =      "https://abhigyantrips.dev";
   
   def __str__(self):
     return self.name
