@@ -52,7 +52,7 @@ if __name__ == '__main__':
   <a href="google.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   </p>
 
-
+<br/>
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
@@ -70,7 +70,12 @@ if __name__ == '__main__':
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
+<br/>
 
+<p align="center">
+    <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=RobotlanTech&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
+    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=RobotlanTech&theme=radical&show_icons=true&border=e4e2e2" />
+</p>
 
 
 
