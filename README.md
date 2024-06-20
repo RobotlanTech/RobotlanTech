@@ -5,11 +5,11 @@
 
 
 <br>
-
+<!--
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=RobotlanTech&label=Profile%20views&color=0047AB&style=plastic?" alt="RobotlanTech" height=25px, width=160px/> 
 </p>
-
+-->
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
