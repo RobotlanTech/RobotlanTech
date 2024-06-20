@@ -1,5 +1,12 @@
+<!-- HEADER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Angel%20Ramirez&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
+</div>
 
+<!-- Muestra "Hola soy Angel..."
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Angel Ramirez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+-->
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Robotics+and+digital+systems+engineer;Competitive+Programmer;Active+learner;Always+learning+new+things"></a>
