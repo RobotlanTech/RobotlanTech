@@ -31,7 +31,7 @@ class RobotlanTech():
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = RobotlanTech()
 ```
 
 
