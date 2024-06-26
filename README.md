@@ -71,12 +71,38 @@ if __name__ == '__main__':
   </p>
 
 <br/>
-
+<!--- stats & Trophy (start) -->
 <p align="center">
-    <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=RobotlanTech&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=RobotlanTech&theme=radical&show_icons=true&border=e4e2e2" />
-</p>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RobotlanTech&theme=dark&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
+  <br></br>
+  <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=RobotlanTech&theme=radical&show_icons=true&border=e4e2e2" />
+</td>
 
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RobotlanTech&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=RobotlanTech&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
 
 
 ### 🐍 &nbsp;That's How Commits move ...
