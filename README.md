@@ -25,20 +25,33 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ```python
-class RobotlanTech():
+class RobotlanTech:
     
-  def __init__(self):
-    self.name =     "Angel Ramirez";
-    self.username = "RobotlanTech";
-    self.location = "Mexico";
-    self.twitter =  "@abhigyantrips";
-    self.web =      "https://abhigyantrips.dev";
-  
-  def __str__(self):
-    return self.name
+    def __init__(self):
+        self.name = "Angel Ramirez"
+        self.username = "RobotlanTech"
+        self.location = "Mexico"
+
+    def get_bio(self):
+        bio = {
+            "- ⚡ Quick bio:": "A technology enthusiast with experience in robotics and embedded systems.",
+            "- 🌱 I’m currently learning": "ROS2, Artificial Intelligence",
+            "- 👯 I’m looking to collaborate on": "Embedded systems, Robotics, Autonomous navigation, AI, Python, and related projects",
+            "- 🤔 I’m looking for help with": "Anything related to what I am currently learning"
+        }
+        return bio
+
+    def __str__(self):
+        bio_str = f"Name: {self.name}\nUsername: {self.username}\nLocation: {self.location}\n"
+        bio_details = self.get_bio()
+        for key, value in bio_details.items():
+            bio_str += f"{key} {value}\n"
+        return bio_str
 
 if __name__ == '__main__':
     me = RobotlanTech()
+    print(me)
+
 ```
 
 <br/>
